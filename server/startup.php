@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'startup-settings' => 'Startup Settings',
-    'startup-command' => 'Startup Command',
-    'docker-image' => 'Docker Image',
-    'read-only' => 'Read Only',
-    'select-docker-feature' => 'This is an advanced feature allowing you to select a Docker image to use when running this server instance.',
-    'custom-docker-image' => 'This {"server\'s"} Docker image has been manually set by an administrator and cannot be changed through this UI.',
-    'variables' => 'Variables'
+    'startup-settings' => 'ਸ਼ੁਰੂਆਤੀ ਸੈਟਿੰਗਾਂ',
+    'startup-command' => 'ਸ਼ੁਰੂਆਤੀ ਕਮਾਂਡ',
+    'docker-image' => 'Docker ਚਿੱਤਰ',
+    'read-only' => 'ਸਿਰਫ ਪੜ੍ਹਾਈ ਜਾਵੇ',
+    'select-docker-feature' => 'ਇਹ ਇੱਕ ਤਕਨੀਕੀ ਖਾਸੀਅਤ ਹੈ ਜੋ ਤੁਹਾਨੂੰ ਇੱਕ Docker ਚਿੱਤਰ ਚੁਣਨ ਦੀ ਆਗਿਆ ਦਿੰਦੀ ਹੈ ਜਦੋਂ ਇਹ ਸਰਵਰ ਇੰਸਟੈਂਸ ਚਲਾਈ ਜਾਂਦਾ ਹੈ।',
+    'custom-docker-image' => 'ਇਹ {"ਸਰਵਰ"} ਦਾ Docker ਚਿੱਤਰ ਇੱਕ ਪ੍ਰਬੰਧਕ ਦੁਆਰਾ ਹੈਣਦਾ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ ਅਤੇ ਇਸ ਯੂਆਈ ਦੁਆਰਾ ਨਹੀਂ ਬਦਲਿਆ ਜਾ ਸਕਦਾ।',
+    'variables' => 'ਵੇਰਵੇ'
 ];
