@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'ਯੂਜ਼ਰ',
+    'manage-subusers' => 'ਸਬ ਯੂਜ਼ਰ ਪ੍ਰਬੰਧਿਤ ਕਰੋ',
+    'new-user' => 'ਨਵਾਂ ਯੂਜ਼ਰ',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'ਇਸ ਦਾ ਸ਼ਾਇਦ ਤੁਹਾਨੂੰ ਕੋਈ ਸਬ ਯੂਜ਼ਰ ਨਹੀਂ ਹੈ।',
 
-    'name' => 'Name',
-    'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    'name' => 'ਨਾਮ',
+    'email' => 'ਈਮੇਲ',
+    '2FA-enabled' => '2FA ਸਮਰੂਪਤ',
+    'creation-date' => 'ਨਿਰਮਾਣ ਮਿਤੀ',
+    'modify-permissions' => 'ਅਨੁਮਤੀਆਂ ਸੋਧੋ',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'ਯੂਜ਼ਰ ਈਮੇਲ',
+    'user-email-description' => 'ਇਸ ਸਰਵਰ ਲਈ ਸਬ ਯੂਜ਼ਰ ਦੇ ਤੌਰ ਤੇ ਸੱਦਾ ਭੇਜਣ ਲਈ ਯੂਜ਼ਰ ਦੀ ਈਮੇਲ ਐਡਰੈੱਸ ਦਾਖਲ ਕਰੋ।',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'ਅਨੁਮਤੀਆਂ ਸੋਧੋ',
+    'view-permissions-for' => 'ਅਨੁਮਤੀਆਂ ਵੇਖੋ',
+    'create-new-subuser' => 'ਨਵਾਂ ਸਬ ਯੂਜ਼ਰ ਬਣਾਓ',
+    'must-not-exceed' => 'ਈਮੇਲ ਐਡਰੈੱਸ 191 ਅੱਖਰ ਤੋਂ ਵੱਧ ਨਹੀਂ ਹੋਣੇ ਚਾਹੀਦੇ।',
+    'valid-email' => 'ਇੱਕ ਵੈਧ ਈਮੇਲ ਐਡਰੈੱਸ ਦਿਓ।',
+    'save' => 'ਸੰਭਾਲੋ',
+    'invite-user' => 'ਯੂਜ਼ਰ ਨੂੰ ਆਮੰਤਰਿਤ ਕਰੋ',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'ਸਿਰਫ ਅਨੁਮਤੀਆਂ ਜੋ ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਹਾਲੇ ਸੌਂਪੀ ਗਈਆਂ ਹਨ ਨੂੰ ਬਣਾਉਣ ਜਾਂ ਸੋਧਣ ਦੇ ਸਮੇਂ ਚੁਣੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ।',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'ਇਸ ਸਬ ਯੂਜ਼ਰ ਨੂੰ ਮਿਟਾਓ?',
+    'yes-remove' => 'ਹਾਂ, ਸਬ ਯੂਜ਼ਰ ਨੂੰ ਹਟਾਓ',
+    'are-you-sure-to-remove' => 'ਕੀ ਤੁਸੀਂ ਇਸ ਸਬ ਯੂਜ਼ਰ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ? ਉਹ ਤੁਹਾਨੂੰ ਇਸ ਸਰਵਰ ਵਿੱਚ ਸਭ ਐਕਸੈਸ ਤੁਰੰਤ ਮਾਫ ਕਰ ਦਿੰਦਾ ਹੈ।'
 ];
