@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'console' => 'Console',
-    'node-under-maintenance' => 'The node of this server is currently under maintenance and all actions are unavailable.',
-    'running-installation-process' => 'This server is currently running its installation process and most actions are unavailable.',
-    'being-transferred' => 'This server is currently being transferred to another node and all actions are unavailable.',
-    'type-a-command' => 'Type a command...',
+    'console' => 'ਕੰਸੋਲ',
+    'node-under-maintenance' => 'ਇਸ ਸਰਵਰ ਦਾ ਨੋਡ ਮੈਨਟੀਨੈਂਸ ਅਧੀਨ ਹੈ ਅਤੇ ਸਭ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
+    'running-installation-process' => 'ਇਹ ਸਰਵਰ ਹੁਣ ਆਪਣੇ ਇੰਸਟਾਲੇਸ਼ਨ ਪ੍ਰਕ੍ਰਿਆ ਚਲਾ ਰਿਹਾ ਹੈ ਅਤੇ ਜ਼ਿਆਦਾਤਰ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
+    'being-transferred' => 'ਇਹ ਸਰਵਰ ਹੁਣ ਦੂਜੇ ਨੋਡ ਵਿੱਚ ਟ੍ਰਾਂਸਫਰ ਹੋ ਰਿਹਾ ਹੈ ਅਤੇ ਸਭ ਕਾਰਵਾਈਆਂ ਅਣਉਪਲਬਧ ਹਨ।',
+    'type-a-command' => 'ਇੱਕ ਕਮਾਂਡ ਟਾਈਪ ਕਰੋ...',
 ];
