@@ -1,37 +1,37 @@
 <?php
 
 return [
-    'settings' => 'Settings',
+    'settings' => 'ਸੈਟਿੰਗਾਂ',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP ਵੇਰਵਾ',
+        'server-address' => 'ਸਰਵਰ ਪਤਾ',
+        'username' => 'ਯੂਜ਼ਰਨਾਮ',
+        'description' => 'ਤੁਹਾਡਾ SFTP ਪਾਸਵਰਡ ਇਸ ਪੈਨਲ ਤੱਕ ਪਹੁੰਚ ਲਈ ਵਰਤੇ ਗਏ ਪਾਸਵਰਡ ਨਾਲ ਸਮਾਨ ਹੈ।',
+        'launch-sftp' => 'SFTP ਲਾਂਚ ਕਰੋ',
     ],
 
     'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
+        'title' => 'ਸਰਵਰ ਵੇਰਵਾ ਬਦਲੋ',
+        'server-name' => 'ਸਰਵਰ ਨਾਮ',
+        'server-description' => 'ਸਰਵਰ ਵੇਰਵਾ',
+        'save' => 'ਸੰਭਾਲੋ',
     ],
 
     'debug' => [
-        'title' => 'Debug Information',
-        'node' => 'Node',
-        'server-id' => 'Server ID',
+        'title' => 'ਡੀਬੱਗ ਜਾਣਕਾਰੀ',
+        'node' => 'ਨੋਡ',
+        'server-id' => 'ਸਰਵਰ ਆਈਡੀ',
     ],
 
     'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
+        'title' => 'ਸਰਵਰ ਮੁੜ ਇੰਸਟਾਲ ਕਰੋ',
+        'reinstall-started' => 'ਤੁਹਾਡਾ ਸਰਵਰ ਮੁੜ ਇੰਸਟਾਲੇਸ਼ਨ ਪ੍ਰਕਿਰਿਆ ਸ਼ੁਰੂ ਹੋ ਗਈ ਹੈ।',
+        'confirm-reinstallation' => 'ਸਰਵਰ ਮੁੜ ਇੰਸਟਾਲੇਸ਼ਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ',
+        'yes-reinstall' => 'ਹਾਂ, ਸਰਵਰ ਮੁੜ ਇੰਸਟਾਲ ਕਰੋ',
+        'are-you-sure' => 'ਤੁਹਾਡਾ ਸਰਵਰ ਬੰਦ ਹੋ ਜਾਵੇਗਾ ਅਤੇ ਇਸ ਪ੍ਰਕਿਰਿਆ ਦੌਰਾਨ ਕੁਝ ਫਾਈਲਾਂ ਮਿਟ ਸਕਦੀਆਂ ਹਨ ਜਾਂ ਸੋਧੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ, ਕੀ ਤੁਸੀਂ ਇਸ ਪ੍ਰਕਿਰਿਆ ਨੂੰ ਜਾਰੀ ਰੱਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
+        'desc-1' => 'ਆਪਣੇ ਸਰਵਰ ਦੀ ਮੁੜ ਇੰਸਟਾਲੇਸ਼ਨ ਕਰਨ ਨਾਲ ਇਹ ਰੁਕ ਜਾਵੇਗਾ ਅਤੇ ਫਿਰ ਉਸ ਨੂੰ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਇੱਸ ਦੀ ਪੁੱਛੇਗਾ ਜਾਵੇਗਾ ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਪਹਿਲਾਂ ਸੈੱਟ ਕੀਤਾ ਸੀ।',
+        'desc-2' => 'ਇਸ ਪ੍ਰਕਿਰਿਆ ਦੌਰਾਨ ਕੁਝ ਫਾਈਲਾਂ ਮਿਟ ਜਾਣਗੀਆਂ ਜਾਂ ਸੋਧੀਆਂ ਜਾਣਗੀਆਂ ਹਨ, ਕਿਰਪਾ ਕਰਕੇ ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਆਪਣੇ ਡਾਟਾ ਦੀ ਬੈਕਅੱਪ ਬਣਾਓ।',
+        'reinstall-server' => 'ਸਰਵਰ ਮੁੜ ਇੰਸਟਾਲ ਕਰੋ',
     ],
 ];
